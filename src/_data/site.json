@@ -1,7 +1,7 @@
 {
   "site_name": "S.Tariq",
   "title": "Sarah Tariq",
-  "description": "Cybersecurity fun",
+  "description": "A starter project to build awesome things with Eleventy, Tailwind, Webpack, PostCSS and headlessly manage content using Netlify CMS.",
   "url": "https://example.com",
   "locale": "en",
   "author": "Sarah"
